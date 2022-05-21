@@ -1,5 +1,5 @@
 // Package utils provides some commonly used functions.
-package utils
+package goutils
 
 import (
 	"encoding/json"
